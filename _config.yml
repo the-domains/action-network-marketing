@@ -1,0 +1,28 @@
+name: Action Network Marketing
+favicon: null
+layout_spectrum: 0.1678186876233667
+typography_spectrum: 0.7736974062863737
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8102286346256733
+  lightness: 0.4834612673148513
+  saturation: 0.48085297644138336
+  rhythmicContrast: 0.7108617564663291
+purpose: []
