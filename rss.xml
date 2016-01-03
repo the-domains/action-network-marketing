@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Action Network Marketing]]></title>
         <description><![CDATA[Action Network Marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/action-network-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 01:54:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 03:09:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/action-network-marketing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welsome to Action Network Marketing]]></title>
+            <description><![CDATA[<article><h1>Welsome to Action Network Marketing</h1><p>What it's all about...</p></article>]]></description>
+            <link>https://thegrid.ai/action-network-marketing/welsome-to-action-network-marketing/index.html</link>
+            <guid isPermaLink="false">e06b05ac-a9fa-4113-af55-fbeb552699dd</guid>
+            <pubDate>Sun, 03 Jan 2016 03:09:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Everything and Anything]]></title>
-            <description><![CDATA[<article><h1>Everything and Anything</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8151892083d4fedae0230c179cc35d973c8c4917.jpg"></article>]]></description>
-            <link>undefinedeverything-and-anything/index.html</link>
+            <description><![CDATA[<article><h1>Everything and Anything</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/514d05a936ab1bd5a1d9a9ff3305c24e78493ecb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/action-network-marketing/everything-and-anything/index.html</link>
             <guid isPermaLink="false">9bad4856-981f-47e1-885f-9f26aa9c5b75</guid>
             <pubDate>Sun, 03 Jan 2016 01:54:05 GMT</pubDate>
         </item>
